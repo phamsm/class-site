@@ -1,4 +1,34 @@
-title {
-  font-size:100px;
-  
+html {
+  background-color:#f2c4bc;
+  color:#ffffff;
+  font-size:30px;
+  font-family:"space mono",monospace;
+  font-weight:lighter;
+  }
+
+h1 {
+  font-size:50px;
+  font-family:"space mono",monospace;
+  font-weight:lighter;
+  margin-top:50px;
+  margin-left:50px;
+  }
+
+.logo {
+  max-width:110px;
+  margin:10px auto auto 10px;
+  }
+
+div {
+  margin-top:50px;
+  margin-left:50px;
+  }
+
+.otopmrgn {
+  margin-top:0;
+  }
+
+a {
+  text-decoration:none;
+  color:#000000;
   }
