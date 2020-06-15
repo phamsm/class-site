@@ -20,8 +20,7 @@ h1 {
   }
 
 div {
-  margin-top:50px;
-  margin-left:50px;
+  margin:50px 50px 0 50px;
   }
 
 .otopmrgn {
@@ -31,4 +30,20 @@ div {
 a {
   text-decoration:none;
   color:#000000;
+  }
+
+.response01img {
+  max-width:900px;
+  margin:30px auto;
+  display:block;
+  }
+
+.smalltext {
+  font-size:20px;
+  margin-left:90px;
+  margin-top:30px;
+  }
+
+.italic {
+  font-style:italic;
   }
