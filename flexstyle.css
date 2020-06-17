@@ -7,7 +7,7 @@ body {
   }
 
 .container {
-  background:pink;
+  background:#f2c4bc;
   display:flex;
   flex-direction:column;
   padding:10px;
@@ -15,7 +15,7 @@ body {
   }
 
 .top-main {
-  background:pink;
+  background:#f2c4bc;
   height:20%;
   display:flex;
   justify-content:space-between;
@@ -28,14 +28,14 @@ body {
   }
 
 .bottom-main {
-  background:pink;
+  background:#f2c4bc;
   height:80%;
   display:flex;
   justify-content:space-between;
   }
 
 .bottom-item {
-  background:pink;
+  background:#f2c4bc;
   width:49.6%;
   height:100%;
   display:flex;
