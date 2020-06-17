@@ -20,22 +20,47 @@ p {
   position:absolute;
   top:250px;
   left:250px;
-  display:none;
+  /* display:none; */
+  opacity:0;
+  /* transition:opacity 1s linear; */
   }
 
 .special:hover .special-img {
-  display:block;
+  /* display:block; */
+  opacity:1;
   }
 
 .special-text {
   position:absolute;
   top:450px;
   right:450px;
-  display:none;
+  /* display:none; */
+  opacity:0;
+  /* transition:opacity 1s linear; */
   font-style:normal;
   color:#ffffff;
   }
 
 .special:hover .special-text {
-  display:block;
+  /* display:block; */
+  opacity:1;
+  }
+
+.object {
+  background:blanchedalmond;
+  width:200px;
+  height:200px;
+  border-radius:50%;
+  position:absolute;
+  bottom:250px;
+  right:550px;
+  transition:background 1s ease,
+             border-radius 1s ease,
+             transform 1s ease;
+  }
+
+.object:hover {
+  background:#d2dff2;
+  border-radius:0;
+  transform:scale(2);
   }
