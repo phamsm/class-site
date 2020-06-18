@@ -1,0 +1,35 @@
+* {
+  box-sizing:border-box;
+  }
+
+body {
+  margin:0;
+  }
+
+.flex {
+  background:#d2dff2;
+  height:100vh;
+  display:flex;
+  }
+
+.half {
+  background:#f2c4bc;
+  width:50%;
+  height:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  }
+
+.circle {
+  background:blanchedalmond;
+  width:250px;
+  height:250px;
+  border-radius:50%;
+  }
+
+.square {
+  background:blanchedalmond;
+  width:250px;
+  height:250px;
+  }
