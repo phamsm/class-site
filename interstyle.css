@@ -20,30 +20,30 @@ p {
   position:absolute;
   top:250px;
   left:250px;
-  /* display:none; */
-  opacity:0;
+  display:none;
+  /* opacity:0; */
   /* transition:opacity 1s linear; */
   }
 
 .special:hover .special-img {
-  /* display:block; */
-  opacity:1;
+  display:block;
+  /* opacity:1; */
   }
 
 .special-text {
   position:absolute;
   top:450px;
   right:450px;
-  /* display:none; */
-  opacity:0;
+  display:none;
+  /* opacity:0; */
   /* transition:opacity 1s linear; */
   font-style:normal;
   color:#ffffff;
   }
 
 .special:hover .special-text {
-  /* display:block; */
-  opacity:1;
+  display:block;
+  /* opacity:1; */
   }
 
 .object {
