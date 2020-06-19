@@ -29,7 +29,6 @@ div {
 
 a {
   text-decoration:none;
-  color:#000000;
   }
 
 .response01img {
@@ -46,4 +45,12 @@ a {
 
 .italic {
   font-style:italic;
+  }
+
+.link {
+  color:#ffffff;
+  }
+
+.link:hover {
+  color:#000000;
   }
