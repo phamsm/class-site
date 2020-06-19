@@ -26,10 +26,41 @@ body {
   width:250px;
   height:250px;
   border-radius:50%;
+  animation:pulse 6s ease infinite;
   }
 
 .square {
   background:blanchedalmond;
   width:250px;
   height:250px;
+  animation:rotate 15s linear infinite;
+  }
+
+.runner {
+  background:#000000;
+  width:100px;
+  height:25px;
+  position:fixed;
+  bottom:0;
+  left:0;
+  animation:run 3s linear infinite;
+  }
+
+@keyframes pulse {
+  0% {background:blanchedalmond;
+    transform:scale(1);}
+  50% {background:#000000;
+    transform:scale(1.5);}
+  100% {background:blanchedalmond;
+    transform:scale(1);}
+  }
+
+@keyframes rotate {
+  0% {transform:rotate(0deg);}
+  100% {transform:rotate(360deg);}
+  }
+
+@keyframes run {
+  0% {transform:translateX(-100px);}
+  100% {transform:translateX(100vw);}
   }
