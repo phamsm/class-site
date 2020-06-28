@@ -36,6 +36,7 @@ body {
   justify-content:center;
   /* align-items:center; */
   transition:transform .3s ease;
+  z-index:1;
   }
 
 .style {
@@ -45,4 +46,12 @@ body {
   color:white;
   font-size:25px; */
   transform:translateX(-180px);
+  }
+
+.marquee {
+  /* width: 300px; /* the plugin works for responsive layouts so width is not necessary */
+  overflow: hidden;
+  /* border:1px solid #ccc; */
+  font-size:2rem;
+  cursor:pointer;
   }

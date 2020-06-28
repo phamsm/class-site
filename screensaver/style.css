@@ -1,0 +1,343 @@
+* {
+  box-sizing:border-box;
+  }
+
+html {
+  font-size:100%;
+  }
+
+body {
+  background:#f2c4bc;
+  margin:0;
+  color:#ffffff;
+  font-family:"space mono",monospace;
+  font-weight:lighter;
+  }
+
+div {
+  margin:40px;
+  }
+
+.thing {
+  height:100vh;
+  }
+
+.container {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:20%;
+  }
+
+.container2 {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:20%;
+  }
+
+.container3 {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:20%;
+  }
+
+.container4 {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:20%;
+  }
+
+.one {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  }
+
+.two {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:10s;
+  }
+
+.three {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:20s;
+  }
+
+.four {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:30s;
+  }
+
+.five {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:40s;
+  }
+
+.six {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:50s;
+  }
+
+.seven {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:60s;
+  }
+
+.eight {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:70s;
+  }
+
+.nine {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:80s;
+  }
+
+.ten {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:90s;
+  }
+
+.eleven {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:100s;
+  }
+
+.twelve {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:110s;
+  }
+
+.thirteen {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:120s;
+  }
+
+.fourteen {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:130s;
+  }
+
+.fifteen {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:140s;
+  }
+
+.sixteen {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:150s;
+  }
+
+.seventeen {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:160s;
+  }
+
+.eighteen {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:170s;
+  }
+
+.nineteen {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:180s;
+  }
+
+.twenty {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:190s;
+  }
+
+.twentyone {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:200s;
+  }
+
+.twentytwo {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:210s;
+  }
+
+.twentythree {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:220s;
+  }
+
+.twentyfour {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:230s;
+  }
+
+.twentyfive {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:240s;
+  }
+
+.twentysix {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:250s;
+  }
+
+.twentyseven {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:260s;
+  }
+
+.twentyeight {
+  animation:rotate 15s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:270s;
+  }
+
+.twentynine {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:280s;
+  }
+
+.thirty {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:290s;
+  }
+
+.thirtyone {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:300s;
+  }
+
+.thirtytwo {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:310s;
+  }
+
+.thirtythree {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:320s;
+  }
+
+.thirtyfour {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:330s;
+  }
+
+.thirtyfive {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:340s;
+  }
+
+.thirtysix {
+  animation:rotate 10s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:350s;
+  }
+
+@keyframes rotate {
+  0% {transform:rotate(0deg);}
+  100% {transform:rotate(360deg);}
+  }
