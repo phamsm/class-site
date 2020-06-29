@@ -51,290 +51,290 @@ div {
   }
 
 .one {
-  animation:rotate 10s linear infinite;
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   }
 
 .two {
-  animation:rotate 10s linear infinite;
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:5s;
+  }
+
+.three {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:10s;
   }
 
-.three {
-  animation:rotate 10s linear infinite;
+.four {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:15s;
+  }
+
+.five {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:20s;
   }
 
-.four {
-  animation:rotate 10s linear infinite;
+.six {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:25s;
+  }
+
+.seven {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:30s;
   }
 
-.five {
-  animation:rotate 10s linear infinite;
+.eight {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:35s;
+  }
+
+.nine {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:40s;
   }
 
-.six {
-  animation:rotate 10s linear infinite;
+.ten {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:45s;
+  }
+
+.eleven {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:50s;
   }
 
-.seven {
-  animation:rotate 10s linear infinite;
+.twelve {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:55s;
+  }
+
+.thirteen {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:60s;
   }
 
-.eight {
-  animation:rotate 10s linear infinite;
+.fourteen {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:65s;
+  }
+
+.fifteen {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:70s;
   }
 
-.nine {
-  animation:rotate 10s linear infinite;
+.sixteen {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:75s;
+  }
+
+.seventeen {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:80s;
   }
 
-.ten {
-  animation:rotate 10s linear infinite;
+.eighteen {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:85s;
+  }
+
+.nineteen {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:90s;
   }
 
-.eleven {
-  animation:rotate 10s linear infinite;
+.twenty {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:95s;
+  }
+
+.twentyone {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:100s;
   }
 
-.twelve {
-  animation:rotate 10s linear infinite;
+.twentytwo {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:105s;
+  }
+
+.twentythree {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:110s;
   }
 
-.thirteen {
-  animation:rotate 10s linear infinite;
+.twentyfour {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:115s;
+  }
+
+.twentyfive {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:120s;
   }
 
-.fourteen {
-  animation:rotate 10s linear infinite;
+.twentysix {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:125s;
+  }
+
+.twentyseven {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:130s;
   }
 
-.fifteen {
-  animation:rotate 10s linear infinite;
+.twentyeight {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:135s;
+  }
+
+.twentynine {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:140s;
   }
 
-.sixteen {
-  animation:rotate 10s linear infinite;
+.thirty {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:145s;
+  }
+
+.thirtyone {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:150s;
   }
 
-.seventeen {
-  animation:rotate 10s linear infinite;
+.thirtytwo {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:155s;
+  }
+
+.thirtythree {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:160s;
   }
 
-.eighteen {
-  animation:rotate 10s linear infinite;
+.thirtyfour {
+  animation:rotate 5s linear infinite;
+  background:#ffffff;
+  width:100px;
+  height:100px;
+  animation-delay:165s;
+  }
+
+.thirtyfive {
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
   animation-delay:170s;
   }
 
-.nineteen {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:180s;
-  }
-
-.twenty {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:190s;
-  }
-
-.twentyone {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:200s;
-  }
-
-.twentytwo {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:210s;
-  }
-
-.twentythree {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:220s;
-  }
-
-.twentyfour {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:230s;
-  }
-
-.twentyfive {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:240s;
-  }
-
-.twentysix {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:250s;
-  }
-
-.twentyseven {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:260s;
-  }
-
-.twentyeight {
-  animation:rotate 15s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:270s;
-  }
-
-.twentynine {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:280s;
-  }
-
-.thirty {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:290s;
-  }
-
-.thirtyone {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:300s;
-  }
-
-.thirtytwo {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:310s;
-  }
-
-.thirtythree {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:320s;
-  }
-
-.thirtyfour {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:330s;
-  }
-
-.thirtyfive {
-  animation:rotate 10s linear infinite;
-  background:#ffffff;
-  width:100px;
-  height:100px;
-  animation-delay:340s;
-  }
-
 .thirtysix {
-  animation:rotate 10s linear infinite;
+  animation:rotate 5s linear infinite;
   background:#ffffff;
   width:100px;
   height:100px;
-  animation-delay:350s;
+  animation-delay:175s;
   }
 
 @keyframes rotate {
