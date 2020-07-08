@@ -15,11 +15,11 @@ body {
   }
 
 div {
-  margin:40px;
+  padding:40px;
   }
 
 .thing {
-  height:100vh;
+  max-height:100vh;
   }
 
 .container {
