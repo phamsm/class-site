@@ -78,11 +78,6 @@ h1 {
 .italic {
   font-style:italic;
 
-center;
-  align-items:center;
-  flex-direction:column;
-  }
-
 .content {
   max-height:800%;
   max-width:100%;
